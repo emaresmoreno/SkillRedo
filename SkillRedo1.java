@@ -1,5 +1,5 @@
 public class SkillRedo1{
     public static int divide(int a, int b){
-        return a / b;
+        return a / b;//now it passes
     }
 }
